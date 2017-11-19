@@ -1,0 +1,13 @@
+body{
+	background:#efefef;
+	font-family: Verdana, sans-serif;
+}
+h1
+{
+	color:violet;
+	font-size:18px;
+}
+p{
+	color:purple;
+	text-align:center;
+}
